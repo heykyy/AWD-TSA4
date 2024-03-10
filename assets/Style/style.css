@@ -28,7 +28,7 @@ body {
   
   .navbar-toggler:focus {
     outline: none;
-    box-shadow: 0 0 0 0.2rem #fff; 
+    box-shadow: 0 0 0 0.2rem #383737; 
   }
 
 .display-4 {
